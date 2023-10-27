@@ -1,0 +1,9 @@
+bertopic
+kaleido
+typer
+cython<3.0.0
+transformers
+datasets
+pandas>=2.1.2
+sentence-transformers>=2.0.0
+

@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.*
+  - bcrypt
+  - dvc-ssh
+  - pip
+  - pip:
+      - -r ../requirements.txt
